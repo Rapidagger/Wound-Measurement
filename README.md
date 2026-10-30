@@ -1,5 +1,5 @@
 # Wound-Measurement
-wound measurement to improve clockface method for BN3101A project
+wound measurement app to improve clockface method for BN3101A project
 heck yea
 
 Main app is WoundMeasurementPortable.zip under releases
